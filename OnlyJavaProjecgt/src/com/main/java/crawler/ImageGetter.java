@@ -1,4 +1,4 @@
-package crawler;
+package com.main.java.crawler;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;

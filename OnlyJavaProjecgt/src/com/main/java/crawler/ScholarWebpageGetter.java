@@ -1,5 +1,4 @@
-package crawler;
-
+package com.main.java.crawler;
 
 import java.io.BufferedReader;
 import java.io.IOException;
